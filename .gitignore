@@ -1,0 +1,7 @@
+runs/
+*.pt
+train/images/*.jpg
+train/labels/*.txt
+valid/
+test/
+__pycache__/

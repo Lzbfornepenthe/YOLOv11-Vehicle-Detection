@@ -1,0 +1,11 @@
+name: yolo_train
+channels:
+  - pytorch
+  - nvidia
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - torch>=2.5.0
+    - ultralytics>=8.4.60
+    - opencv-python

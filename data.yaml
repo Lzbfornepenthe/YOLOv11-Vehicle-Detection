@@ -1,0 +1,6 @@
+path: ./
+train: train/images
+val: valid/images
+test: test/images
+nc: 12
+names: ['bus-l-', 'bus-s-', 'car', 'extra large truck', 'large bus', 'medium truck', 'small bus', 'small truck', 'truck-l-', 'truck-m-', 'truck-s-', 'truck-xl-']
